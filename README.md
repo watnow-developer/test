@@ -1,3 +1,3 @@
 Test
 Hoge
-Fuga
+Fuga+Fuga
